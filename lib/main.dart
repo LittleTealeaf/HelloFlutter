@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
           title: const Text('HELLO FLUTTER!'),
         ),
         body: const Center(
-           child: Text('I AM A PWETTY FLUTTER APPLICATION'),
+          child: Text('I AM A PWETTY oijawef APPLICATION'),
         ),
       ),
     );
